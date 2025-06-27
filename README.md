@@ -8,6 +8,8 @@ A simple test project for `zapdos-js`.
 npm install
 ```
 
+`npm install` is necessary to set up the `node_modules` directory and install any other dependencies required by `zapdos-js-test`, even when `zapdos-js` is symlinked for local development.
+
 ## Usage
 
 ```bash
