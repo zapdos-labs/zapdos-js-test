@@ -1,3 +1,3 @@
-import { newClient } from 'zapdos';
+import { newClient } from 'zapdos-js';
 
 newClient();
