@@ -40,7 +40,7 @@ To develop `zapdos-js` locally and test changes within `zapdos-js-test`, follow 
     npm link zapdos-js
     ```
 
-Now, any changes you make in the `zapdos-js` directory will be reflected in `zapdos-js-test` without needing to reinstall.
+Now, any changes you make in the `zapdos-js` directory will be reflected in `zapdos-js-test` without needing to reinstall. Remember to rebuild `zapdos-js` (e.g., by running `npm run build` or `tsc`) after making changes to its source code for the changes to take effect.
 
 To unlink the packages:
 
